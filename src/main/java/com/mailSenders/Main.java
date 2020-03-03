@@ -1,4 +1,4 @@
-package com.mail;
+package com.mailSenders;
 
 public class Main {
     private static EmailTLSSender emailTLSSender = new EmailTLSSender("...@gmail.com", "...");

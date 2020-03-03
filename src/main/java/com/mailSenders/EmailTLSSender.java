@@ -1,9 +1,8 @@
-package com.mail;
+package com.mailSenders;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
-import java.security.SecureRandom;
 import java.util.Properties;
 
 public class EmailTLSSender {
